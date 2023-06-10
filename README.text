@@ -6,3 +6,4 @@ En una parte pedira la base de datosm, usamos la que creamos recientemente. Una 
 Al instalar woocomerce usaremos las plantillas que sean compatibles. En mi caso usare la plantilla Astra, usando Starter Templates que es un plugging que nos ayudara a encontrar una plantilla compatible.
 Luego de instalar la plantilla y woocomerce. Procedemos a la configuración, para esto tenemos que ir a las opciones de woocommerce, agregar los metodos de comprar, imformacion personal, etc.
 Luego agregamos los productos, en este caso el servicio de hosting que estamos ofreciendo por diferentes planes.
+Al final comprobamos el funcionamiento, simulando que somos el comprador y solicitando un producto.
