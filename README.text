@@ -1,1 +1,8 @@
-
+Ver: https://hostnation.store/
+Se pide crear un wordpress local usando woocommerce. Primero instalamos y configuramos wordpress, para esto tenemos ir al sitio oficial y descargar la versión más reciente.
+Vamos a phpmyasmin para crear una base de datos, ponemos un nombre que más tarde necesitaremos.
+Instalamos Wordpress en nuestro localhost, luego procedemos a configurarlo, agregamos los datos solicitados: Nombre usuario, contraseña, correo, etc. 
+En una parte pedira la base de datosm, usamos la que creamos recientemente. Una vez hecho todo esto, entramos al panel de control y vamos a plugins, vamos a instalar woocommerce.
+Al instalar woocomerce usaremos las plantillas que sean compatibles. En mi caso usare la plantilla Astra, usando Starter Templates que es un plugging que nos ayudara a encontrar una plantilla compatible.
+Luego de instalar la plantilla y woocomerce. Procedemos a la configuración, para esto tenemos que ir a las opciones de woocommerce, agregar los metodos de comprar, imformacion personal, etc.
+Luego agregamos los productos, en este caso el servicio de hosting que estamos ofreciendo por diferentes planes.
